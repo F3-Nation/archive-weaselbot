@@ -1,5 +1,13 @@
 # WeaselBot
 
+[![No Maintenance Intended](http://unmaintained.tech/badge.svg)](http://unmaintained.tech/)
+
+# DEPRECATED
+PAXminer and Weselbot have been serving F3 Nation for a while now. We are standing up a new database and Slackbot. Check out https://github.com/F3-Nation to see what we're working on and to contribute. 
+
+<details>
+<Summary>Original ReadMe</Summary>
+
 [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
 [![Ruff](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/charliermarsh/ruff/main/assets/badge/v2.json)](https://github.com/astral-sh/ruff)
 [![Poetry](https://img.shields.io/endpoint?url=https://python-poetry.org/badge/v0.json)](https://python-poetry.org/)
@@ -143,3 +151,5 @@ poetry install
 5. Run scripts with `poetry run python script_name.py`
 6. This project uses Ruff / Black to apply consistent code formatting. Use `pre-commit install` to install the pre commit hooks (I'll eventually apply these as Github Actions on pushes to `main`)
 7. Run unit tests through `poetry run pytest`, which automatically runs all tests in the `tests/` folder
+
+</details>
